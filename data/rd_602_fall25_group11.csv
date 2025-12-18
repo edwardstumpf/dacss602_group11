@@ -1,0 +1,251 @@
+g11_DO,treatments,g11q6_1,g11q6_2,g11q6_3,g11q7,g11q8,g11industry,g11industry_20_TEXT,g11role,g11role_4_TEXT,age,gender,hhi,ethnicity,hispanic,education,political_party,region,zip
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Might or might not,Might or might not,A moderate amount,Might or might not,Not currently employed,-99,Not currently employed,-99,75,2,1,2,1,2,4,3,23224
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Might or might not,Might or might not,A moderate amount,Definitely not,Not currently employed,-99,Not currently employed,-99,49,1,1,1,1,6,4,2,45387
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably not,Might or might not,Probably yes,A little,Definitely not,Retail Trade,-99,Specialist,-99,62,2,5,1,1,2,1,2,49024
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Might or might not,Might or might not,A moderate amount,Might or might not,Utilities,-99,Other,-99,34,2,1,2,1,2,7,4,80911
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably not,Might or might not,Might or might not,A little,Definitely not,Not currently employed,-99,Not currently employed,-99,79,2,2,1,1,2,3,3,33525
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably yes,Might or might not,Probably yes,A moderate amount,Probably not,Not currently employed,-99,Not currently employed,-99,43,2,1,2,1,2,1,1,13203
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely not,Probably not,Might or might not,A little,Definitely not,"Agriculture, Forestry, Fishing and Hunting",-99,Specialist,-99,24,2,1,1,1,2,2,3,41101
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Might or might not,Probably yes,A little,Probably not,Manufacturing,-99,Manager,-99,39,1,2,2,1,4,3,4,12355
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely yes,Probably yes,Definitely yes,A lot,Definitely yes,Other,-99,Executive,-99,41,1,20,1,1,7,8,1,11249
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely not,Probably not,Might or might not,A little,Probably yes,Educational Services,-99,Manager,-99,25,1,4,1,1,2,6,3,37128
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Might or might not,Might or might not,A little,Might or might not,Wholesale Trade,-99,Other,-99,39,2,5,1,1,2,3,2,49418
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably yes,Probably not,A great deal,Definitely not,Not currently employed,-99,Not currently employed,-99,68,2,9,1,14,6,1,1,10010
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably not,Probably not,None at all,Definitely not,Transportation and Warehousing,-99,Other,-99,46,1,2,1,12,-3105,1,1,10038
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Might or might not,Might or might not,A moderate amount,Might or might not,Finance and Insurance,-99,Manager,-99,48,1,5,2,1,6,2,3,33612
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Might or might not,Might or might not,None at all,Probably not,Not currently employed,-99,Not currently employed,-99,62,2,8,1,1,7,2,3,39560
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Probably yes,Probably yes,A moderate amount,Might or might not,Not currently employed,-99,Not currently employed,-99,65,2,19,1,1,4,2,3,77429
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably not,Probably yes,Probably not,A moderate amount,Definitely not,Not currently employed,-99,Not currently employed,-99,72,2,20,1,1,2,3,4,92065
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Might or might not,Might or might not,A moderate amount,Might or might not,Not currently employed,-99,Not currently employed,-99,66,2,4,1,1,2,2,3,37772
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely not,Definitely yes,Probably not,A little,Probably not,"Professional, Scientific, and Technical Services",-99,Manager,-99,42,2,22,1,1,6,7,1,01588
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Probably not,Probably yes,A lot,Definitely not,Educational Services,-99,Specialist,-99,41,2,7,1,1,6,1,4,98059
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably yes,Might or might not,A little,Probably not,Not currently employed,-99,Not currently employed,-99,67,2,2,2,1,4,3,1,06108
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Definitely yes,Definitely not,Definitely yes,A little,Definitely not,Not currently employed,-99,Not currently employed,-99,65,1,4,1,1,6,2,1,04276
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Might or might not,Might or might not,A little,Probably not,Other,Maintenance,Other,Supervisor,65,2,13,1,1,6,3,3,28105
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably not,Probably yes,Probably not,A little,Probably not,Not currently employed,-99,Not currently employed,-99,69,2,6,1,1,6,1,2,60630
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably not,Probably yes,Might or might not,None at all,Definitely not,Not currently employed,-99,Not currently employed,-99,59,2,5,1,1,2,1,1,19122
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Definitely not,Probably yes,A little,Might or might not,Not currently employed,-99,Not currently employed,-99,74,2,4,1,1,4,1,1,10027
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Might or might not,Might or might not,A moderate amount,Might or might not,Not currently employed,-99,Not currently employed,-99,67,1,6,1,1,6,2,2,46825
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably not,Probably yes,Probably not,A lot,Definitely yes,Not currently employed,-99,Not currently employed,-99,69,2,14,1,1,4,2,3,75482
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably not,Probably yes,None at all,Definitely not,Not currently employed,-99,Not currently employed,-99,70,1,7,1,1,4,1,2,61373
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably yes,Probably not,A little,Probably not,Not currently employed,-99,Not currently employed,-99,70,1,15,1,1,5,2,2,58103
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably yes,Probably not,A little,Probably yes,Other,I am a full-time pastor,Specialist,-99,74,1,4,1,1,3,6,2,57601
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Might or might not,Might or might not,A little,Probably not,Not currently employed,-99,Not currently employed,-99,67,2,6,1,1,6,3,2,43338
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Probably not,Probably yes,A moderate amount,Might or might not,Prefer not to answer,-99,Prefer not to answer,-99,38,2,1,2,1,2,4,1,06606
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Definitely not,Definitely yes,Definitely not,A moderate amount,Definitely not,Not currently employed,-99,Not currently employed,-99,86,2,9,1,1,7,3,3,32927
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Might or might not,Might or might not,A little,Definitely not,Not currently employed,-99,Not currently employed,-99,77,1,6,2,1,4,1,1,14227
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Definitely yes,Might or might not,A little,Definitely not,Not currently employed,-99,Not currently employed,-99,64,2,15,1,1,6,1,3,70506
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably yes,Probably not,A moderate amount,Probably not,Not currently employed,-99,Not currently employed,-99,71,2,3,1,1,7,1,1,01749
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably yes,Probably not,A little,Definitely not,Not currently employed,-99,Not currently employed,-99,46,2,3,1,1,2,3,3,34234
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Probably yes,Might or might not,A little,Definitely not,Not currently employed,-99,Not currently employed,-99,37,2,19,1,1,6,3,4,80516
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Might or might not,Probably yes,A moderate amount,Probably not,Other,Discount travel sales,Manager,-99,59,1,10,1,1,2,5,4,89110
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably not,Probably yes,None at all,Probably not,"Professional, Scientific, and Technical Services",-99,Executive,-99,39,2,1,1,1,2,3,3,28466
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Might or might not,Might or might not,None at all,Probably not,Transportation and Warehousing,-99,Manager,-99,63,1,2,1,1,4,5,3,32909
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably yes,Might or might not,Might or might not,None at all,Definitely not,Not currently employed,-99,Not currently employed,-99,78,1,20,1,1,6,3,2,62711
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Might or might not,Might or might not,A moderate amount,Probably not,Other,Consulting,Manager,-99,40,2,23,1,1,6,2,1,19343
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably yes,Might or might not,Probably yes,A little,Probably not,Public Administration,-99,Other,-99,56,1,19,2,1,6,1,3,70056
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably not,Might or might not,Might or might not,None at all,Definitely yes,Utilities,-99,Manager,-99,51,1,5,2,1,2,3,3,30315
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Might or might not,Might or might not,A moderate amount,Might or might not,Not currently employed,-99,Not currently employed,-99,72,1,6,2,1,4,3,3,27107
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Might or might not,Might or might not,A great deal,Probably yes,Not currently employed,-99,Not currently employed,-99,73,2,4,1,1,2,2,3,32043
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Definitely yes,Might or might not,Might or might not,A moderate amount,Might or might not,Public Administration,-99,Manager,-99,32,2,1,2,1,5,1,2,60619
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Might or might not,Might or might not,A little,Might or might not,Not currently employed,-99,Not currently employed,-99,63,2,1,2,1,3,3,3,37402
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably yes,Might or might not,None at all,Probably not,Not currently employed,-99,Not currently employed,-99,77,1,18,11,1,4,2,4,96814
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably yes,Probably yes,A little,Probably not,Not currently employed,-99,Not currently employed,-99,74,2,23,1,1,6,1,1,17011
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Might or might not,Might or might not,A moderate amount,Definitely not,Transportation and Warehousing,-99,Manager,-99,53,2,5,2,1,6,1,1,06610
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably not,Probably not,None at all,Probably not,Not currently employed,-99,Not currently employed,-99,79,1,13,1,1,6,3,1,07601
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Definitely yes,Probably yes,A moderate amount,Probably yes,Construction,-99,Prefer not to answer,-99,31,1,5,2,1,1,6,2,56301
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Probably yes,Might or might not,A moderate amount,Might or might not,Not currently employed,-99,Not currently employed,-99,73,1,1,1,1,4,1,2,64068
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely not,Definitely yes,Definitely not,A lot,Definitely not,Health Care and Social Assistance,-99,Other,Entry level,39,2,19,1,1,3,4,3,38015
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably yes,Might or might not,A moderate amount,Definitely not,Prefer not to answer,-99,Prefer not to answer,-99,31,2,9,1,1,7,6,2,65714
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Might or might not,Might or might not,None at all,Might or might not,Prefer not to answer,-99,Not currently employed,-99,41,2,1,1,1,1,3,2,45320
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely yes,Probably yes,Definitely yes,A moderate amount,Definitely yes,"Professional, Scientific, and Technical Services",-99,Other,Administration,64,2,12,1,1,4,1,3,40299
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably not,Probably yes,Definitely not,A little,Definitely not,Not currently employed,-99,Not currently employed,-99,35,2,3,1,1,6,1,2,62219
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely not,Definitely not,Definitely not,None at all,Definitely not,Not currently employed,-99,Not currently employed,-99,75,2,1,1,1,2,2,3,24018
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably not,Probably yes,A little,Definitely not,Health Care and Social Assistance,-99,Other,Coordinator Supervisor,29,2,16,1,1,2,1,2,65804
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Definitely not,Definitely not,Definitely not,A little,Definitely not,Not currently employed,-99,Not currently employed,-99,25,2,1,1,1,2,2,3,74044
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Probably not,Might or might not,None at all,Might or might not,Not currently employed,-99,Not currently employed,-99,68,2,3,2,1,4,1,3,39756
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely not,Definitely yes,Definitely not,A moderate amount,Definitely not,Not currently employed,-99,Not currently employed,-99,74,2,3,3,1,4,3,3,37708
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Might or might not,Might or might not,A moderate amount,Might or might not,Not currently employed,-99,Not currently employed,-99,31,2,1,2,1,2,1,3,30066
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably yes,Probably not,Probably yes,A lot,Probably yes,Other,Retail grocery,Other,Retail grocery store clerk,65,1,2,1,1,4,2,3,33604
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably yes,Probably not,A moderate amount,Definitely not,Other,Housecleaning,Other,housekeeper,67,2,7,1,1,4,2,3,79423
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Might or might not,Might or might not,A little,Probably not,"Professional, Scientific, and Technical Services",-99,Other,Legal Assistant,82,2,12,1,1,6,1,4,94131
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely yes,Definitely yes,Definitely yes,A great deal,Definitely yes,Not currently employed,-99,Not currently employed,-99,52,2,3,1,1,2,1,2,60641
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Might or might not,Might or might not,A moderate amount,Might or might not,Other,State government,Other,-99,62,2,5,2,1,1,1,2,61104
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Might or might not,Probably not,A great deal,Definitely not,Not currently employed,-99,Not currently employed,-99,76,2,7,15,1,8,1,3,23321
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Might or might not,Might or might not,A little,Definitely not,Not currently employed,-99,Not currently employed,-99,76,2,20,1,1,6,1,1,11793
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely yes,Definitely yes,Definitely yes,A lot,Probably yes,Not currently employed,-99,Not currently employed,-99,66,2,8,1,1,6,8,4,85746
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Probably not,Might or might not,A moderate amount,Might or might not,Not currently employed,-99,Not currently employed,-99,28,2,1,2,1,-3105,1,3,27610
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably not,Definitely yes,Probably not,A moderate amount,Might or might not,Not currently employed,-99,Not currently employed,-99,50,1,6,6,1,5,3,3,31320
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Definitely yes,Definitely yes,Definitely yes,A great deal,Definitely yes,Retail Trade,-99,Executive,-99,27,2,1,2,2,4,2,3,38126
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably not,Probably yes,Probably not,None at all,Probably not,Other,Field service tech,Specialist,-99,62,1,14,1,1,5,2,2,43014
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Definitely not,Probably not,A little,Probably not,Not currently employed,-99,Prefer not to answer,-99,42,1,1,1,1,1,3,3,27804
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Probably not,Might or might not,None at all,Definitely not,Other,Fast food,Other,Crew,64,2,4,1,1,2,2,2,48631
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably yes,Definitely not,Probably not,None at all,Might or might not,Utilities,-99,Manager,-99,29,1,1,1,1,2,2,3,37743
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably yes,Definitely not,A little,Probably not,Not currently employed,-99,Not currently employed,-99,60,2,3,1,1,1,2,3,35565
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely not,Might or might not,Might or might not,A moderate amount,Might or might not,Prefer not to answer,-99,Prefer not to answer,-99,30,2,1,1,1,2,4,1,02532
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Definitely yes,Probably yes,A little,Might or might not,Other,Solar,Other,Solar panel installer,39,1,1,16,2,3,2,4,93702
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably not,Probably yes,Might or might not,A moderate amount,Probably not,Not currently employed,-99,Not currently employed,-99,24,2,5,1,1,4,4,2,46151
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably not,Probably yes,Probably not,A great deal,Probably yes,Other,Information Technology,Executive,-99,37,1,16,1,1,6,2,1,10013
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably not,Might or might not,A little,Probably yes,Accommodation and Food Services,-99,Manager,-99,24,2,2,1,1,4,3,2,43050
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably not,Probably not,A moderate amount,Probably yes,Real Estate and Rental and Leasing,-99,Specialist,-99,18,1,1,1,2,2,5,3,78573
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably not,Definitely not,A moderate amount,Might or might not,Construction,-99,Not currently employed,-99,19,2,8,1,8,2,5,3,30747
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Might or might not,Might or might not,A moderate amount,Might or might not,Manufacturing,-99,Specialist,-99,63,1,2,1,3,2,2,3,33634
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably yes,Might or might not,Might or might not,A moderate amount,Might or might not,Health Care and Social Assistance,-99,Other,Worker,31,2,6,2,1,2,3,3,23847
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably yes,Might or might not,A moderate amount,Probably not,Not currently employed,-99,Not currently employed,-99,18,1,20,1,7,2,2,3,77573
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably yes,Probably not,None at all,Probably not,"Arts, Entertainment, and Recreation",-99,Manager,-99,29,2,1,1,1,1,4,4,93523
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably not,Definitely yes,Probably not,A lot,Definitely not,Educational Services,-99,Other,Instructional Assistant public education k-12,64,2,7,1,1,4,2,4,92866
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably yes,Probably not,A moderate amount,Definitely not,Not currently employed,-99,Not currently employed,-99,30,2,7,1,2,2,4,2,60445
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably not,Probably not,Probably not,A little,Probably yes,"Arts, Entertainment, and Recreation",-99,Manager,-99,26,2,18,1,1,6,2,4,89103
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably yes,Probably yes,A moderate amount,Might or might not,"Arts, Entertainment, and Recreation",-99,Not currently employed,-99,21,1,21,2,1,2,1,1,19090
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably not,Probably not,A moderate amount,Definitely not,Retail Trade,-99,Executive,-99,23,2,1,2,1,2,8,1,19036
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Might or might not,Might or might not,A little,Might or might not,Not currently employed,-99,Not currently employed,-99,60,2,1,1,1,2,2,2,46320
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Might or might not,Probably yes,A moderate amount,Probably yes,Not currently employed,-99,Executive,-99,43,2,1,1,1,2,2,3,38464
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Probably not,Probably not,A moderate amount,Probably yes,Public Administration,-99,Executive,-99,36,1,19,15,1,6,1,3,23456
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Might or might not,Might or might not,A moderate amount,Might or might not,Prefer not to answer,-99,Prefer not to answer,-99,40,2,1,1,1,1,4,2,44102
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably yes,Probably yes,None at all,Definitely not,Health Care and Social Assistance,-99,Specialist,-99,20,2,1,1,1,2,4,2,50316
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Probably yes,Might or might not,A moderate amount,Probably not,"Agriculture, Forestry, Fishing and Hunting",-99,Manager,-99,50,1,10,1,1,3,2,2,61081
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Might or might not,Might or might not,A little,Probably yes,Utilities,-99,Manager,-99,31,2,2,8,1,4,4,3,33319
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably not,Probably not,Definitely not,A little,Might or might not,Retail Trade,-99,Specialist,-99,18,2,5,1,1,2,2,3,33993
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Might or might not,Definitely not,A moderate amount,Probably yes,Utilities,-99,Specialist,-99,29,1,1,1,1,1,2,3,41472
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably not,Probably yes,None at all,Might or might not,Not currently employed,-99,Not currently employed,-99,53,2,4,1,1,2,3,4,97471
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Probably yes,Probably yes,A little,Might or might not,Not currently employed,-99,Not currently employed,-99,51,2,1,2,1,5,1,3,40219
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely yes,Definitely yes,Definitely yes,A great deal,Definitely not,Retail Trade,-99,Executive,-99,25,1,4,1,1,2,3,1,01109
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Probably yes,Might or might not,None at all,Definitely not,Not currently employed,-99,Not currently employed,-99,19,2,1,2,1,2,4,3,70053
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably yes,Definitely not,Definitely yes,A great deal,Definitely yes,Not currently employed,-99,Not currently employed,-99,53,1,1,2,1,2,3,1,11722
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely not,Probably not,Probably not,A little,Definitely yes,Management of Companies and Enterprises,-99,Manager,-99,28,2,9,1,1,4,3,3,73029
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably yes,Probably not,Probably yes,A little,Probably not,Not currently employed,-99,Not currently employed,-99,74,1,13,7,1,6,4,4,95826
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Might or might not,Probably yes,A little,Might or might not,Health Care and Social Assistance,-99,Other,Employee,47,1,2,2,1,2,1,3,77061
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Definitely yes,Probably not,A little,Probably not,Not currently employed,-99,Other,Retired,83,2,8,1,1,6,5,3,34119
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Probably yes,Definitely yes,A little,Might or might not,Not currently employed,-99,Not currently employed,-99,77,1,1,1,1,2,1,2,43228
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably yes,Might or might not,A lot,Might or might not,Accommodation and Food Services,-99,Specialist,-99,25,2,8,1,1,5,2,4,83686
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably not,Probably yes,A little,Probably not,Health Care and Social Assistance,-99,Manager,-99,50,2,9,2,1,6,3,3,71055
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely not,Probably not,Might or might not,None at all,Probably yes,Not currently employed,-99,Not currently employed,-99,18,2,1,1,1,2,5,1,13357
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably yes,Probably yes,A moderate amount,Probably not,"Professional, Scientific, and Technical Services",-99,Executive,-99,44,2,19,16,1,5,3,3,75254
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Probably yes,Probably not,A little,Definitely not,"Agriculture, Forestry, Fishing and Hunting",-99,Specialist,-99,44,2,19,1,1,7,2,2,61240
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Definitely not,Might or might not,Might or might not,None at all,Might or might not,Not currently employed,-99,Not currently employed,-99,47,2,1,1,1,1,4,3,37110
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely yes,Probably yes,Probably yes,A lot,Definitely not,Retail Trade,-99,Specialist,-99,22,2,9,15,2,5,1,3,33440
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably not,Probably not,Probably yes,A little,Might or might not,Accommodation and Food Services,-99,Other,Employee,31,2,13,1,1,1,3,3,37190
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably not,Might or might not,Probably not,A moderate amount,Probably not,Other,Disabled,Other,Disabled,60,1,1,1,1,2,3,3,37664
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Might or might not,Might or might not,None at all,Definitely not,Other,Disabled,Other,Disabled,60,2,1,1,1,1,4,2,47111
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Probably yes,Probably yes,A moderate amount,Probably not,Not currently employed,-99,Not currently employed,-99,58,1,3,1,1,4,2,2,47714
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely not,Probably yes,Definitely not,A great deal,Definitely not,"Arts, Entertainment, and Recreation",-99,Executive,-99,42,2,1,1,1,5,3,4,98028
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably yes,Probably yes,Definitely yes,A moderate amount,Might or might not,Retail Trade,-99,Manager,-99,39,2,20,1,1,7,2,3,75287
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably not,Definitely not,Probably yes,A great deal,Probably yes,Prefer not to answer,-99,Executive,-99,37,2,2,1,1,2,4,4,92236
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Might or might not,Might or might not,A moderate amount,Probably not,"Professional, Scientific, and Technical Services",-99,Manager,-99,22,2,10,1,1,2,4,3,70083
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably yes,Probably yes,Probably yes,A moderate amount,Probably yes,Other,-99,Other,Non profit,32,2,3,6,1,2,4,1,15801
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Might or might not,Might or might not,A moderate amount,Probably not,Construction,-99,Executive,-99,22,1,5,1,2,4,4,4,92509
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Probably yes,Might or might not,A great deal,Probably yes,Other,Human Resources,Specialist,-99,45,2,10,1,1,4,1,2,61764
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Might or might not,Probably not,A moderate amount,Probably yes,Not currently employed,-99,Not currently employed,-99,27,2,8,1,1,2,3,4,84058
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably not,Probably yes,Probably not,A lot,Probably not,Not currently employed,-99,Not currently employed,-99,18,2,20,1,1,1,7,2,60188
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Probably yes,Probably not,A little,Definitely not,Health Care and Social Assistance,-99,Other,Associate,39,2,7,2,1,2,4,2,53206
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably yes,Probably not,None at all,Probably not,Not currently employed,-99,Not currently employed,-99,49,2,3,1,1,1,2,3,25541
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Probably yes,Probably yes,None at all,Might or might not,Other,Restaurant Business,Other,Host,56,2,1,1,1,2,2,2,43906
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Might or might not,Might or might not,A moderate amount,Probably not,Other,Food service,Other,Team member,19,2,9,1,2,2,8,4,85602
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely yes,Definitely not,Definitely yes,A moderate amount,Might or might not,Other,Disabled,Other,Disabled,60,2,1,1,1,4,1,3,25302
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably not,Might or might not,Probably yes,A moderate amount,Probably not,Wholesale Trade,-99,Specialist,-99,37,1,1,15,2,2,1,2,60632
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably not,Probably yes,A moderate amount,Might or might not,Not currently employed,-99,Not currently employed,-99,42,1,6,2,1,2,4,3,75040
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably yes,Probably not,A little,Probably not,Manufacturing,-99,Manager,-99,63,2,18,1,1,1,3,2,46514
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably not,Might or might not,Probably yes,A moderate amount,Probably yes,Transportation and Warehousing,-99,Other,Worker,32,2,10,1,1,2,3,3,76017
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Probably yes,Might or might not,None at all,Probably not,Not currently employed,-99,Not currently employed,-99,43,2,1,1,1,2,3,3,30731
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely not,Definitely yes,Definitely not,A little,Definitely not,Not currently employed,-99,Not currently employed,-99,75,2,4,1,1,5,2,3,33948
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely not,Definitely not,Definitely not,None at all,Definitely yes,Construction,-99,Specialist,-99,24,2,1,2,1,2,4,3,78207
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Probably yes,Probably yes,A moderate amount,Might or might not,Construction,-99,Manager,-99,53,1,18,15,2,4,1,4,92345
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Probably yes,Might or might not,A little,Probably not,Other,Disabled,Other,"None, disabled",45,1,2,2,1,4,1,3,29150
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Definitely yes,Probably not,None at all,Definitely not,Manufacturing,-99,Prefer not to answer,-99,43,2,14,1,1,2,8,3,42303
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably not,Probably yes,Probably not,A moderate amount,Probably not,"Arts, Entertainment, and Recreation",-99,Specialist,-99,34,2,16,1,1,4,3,1,19145
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably not,Probably yes,Might or might not,None at all,Might or might not,Prefer not to answer,-99,Prefer not to answer,-99,56,2,1,1,1,2,4,2,67401
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably yes,Might or might not,Probably yes,A little,Probably not,Manufacturing,-99,Other,Owner,60,1,20,9,14,6,2,4,92130
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Might or might not,Might or might not,A little,Might or might not,Prefer not to answer,-99,Prefer not to answer,-99,60,2,3,1,1,1,1,3,30680
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Definitely yes,Might or might not,A little,Probably not,Not currently employed,-99,Not currently employed,-99,40,2,2,1,1,4,3,3,71270
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Definitely not,Might or might not,A moderate amount,Might or might not,Not currently employed,-99,Not currently employed,-99,30,2,8,1,1,5,1,2,60088
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably yes,Probably yes,Probably not,A moderate amount,Probably not,Other,Assistance,Manager,-99,36,2,2,1,1,2,2,4,88201
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably yes,Probably not,A little,Probably not,Not currently employed,-99,Not currently employed,-99,69,2,12,1,1,6,1,2,63301
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably yes,Probably not,A moderate amount,Probably not,Not currently employed,-99,Not currently employed,-99,78,1,13,1,1,2,3,3,33541
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Might or might not,Might or might not,None at all,Definitely not,Health Care and Social Assistance,-99,Other,-99,33,2,1,16,14,2,4,1,17403
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Probably yes,Might or might not,A little,Probably not,Not currently employed,-99,Not currently employed,-99,46,1,8,1,1,6,2,3,35811
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Might or might not,Probably yes,A little,Might or might not,Manufacturing,-99,Executive,-99,51,2,2,1,1,2,2,3,31647
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably not,Might or might not,A little,Might or might not,Utilities,-99,Specialist,-99,38,1,2,15,8,2,4,4,90061
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Probably not,Probably yes,A little,Probably yes,Not currently employed,-99,Not currently employed,-99,49,2,1,3,1,4,1,2,65656
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Probably not,Probably not,A little,Definitely yes,Educational Services,-99,Specialist,-99,20,2,1,1,1,3,3,3,75633
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably yes,Might or might not,Might or might not,A little,Probably not,Other,Merchandiser,Other,Merchandiser,49,1,19,15,2,2,3,4,91792
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Might or might not,Probably not,None at all,Definitely not,Not currently employed,-99,Not currently employed,-99,74,1,3,16,16,2,8,3,32514
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably not,Probably yes,Might or might not,None at all,Definitely not,Not currently employed,-99,Not currently employed,-99,73,1,10,1,1,5,8,3,76537
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Might or might not,Might or might not,A moderate amount,Probably yes,Not currently employed,-99,Not currently employed,-99,54,2,2,4,1,2,7,1,11432
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Might or might not,Might or might not,None at all,Definitely not,Not currently employed,-99,Not currently employed,-99,61,2,1,3,14,2,1,2,45011
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Probably yes,Might or might not,A little,Might or might not,Construction,-99,Other,assissintent,61,1,3,3,1,2,1,3,23462
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Might or might not,Might or might not,None at all,Probably not,Not currently employed,-99,Not currently employed,-99,58,2,1,15,1,5,1,2,48601
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably yes,Probably not,Probably yes,A moderate amount,Might or might not,Prefer not to answer,-99,Prefer not to answer,-99,60,1,1,2,1,4,1,3,75214
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably yes,Probably not,None at all,Probably not,Retail Trade,-99,Other,Associate,53,2,5,1,1,5,3,2,64468
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely not,Definitely not,Definitely not,A moderate amount,Probably yes,Utilities,-99,Not currently employed,-99,29,2,1,1,1,4,2,3,24522
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably yes,Definitely yes,Might or might not,A lot,Definitely not,Educational Services,-99,Manager,-99,23,2,5,1,1,6,4,4,93534
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably not,Probably yes,Might or might not,A moderate amount,Probably not,Accommodation and Food Services,-99,Manager,-99,30,2,2,15,2,2,2,4,92707
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Might or might not,Probably not,A moderate amount,Definitely yes,Manufacturing,-99,Manager,-99,31,1,1,1,1,1,3,2,64505
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely yes,Probably yes,Definitely yes,A great deal,Definitely yes,Utilities,-99,Not currently employed,-99,24,2,1,1,1,2,2,3,37015
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably yes,Probably yes,Probably yes,A little,Definitely not,Other,Food service,Other,Associate,24,2,3,1,1,6,1,2,45429
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably not,Probably yes,Might or might not,A moderate amount,Probably not,Not currently employed,-99,Specialist,-99,25,2,8,4,10,2,1,4,91331
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Definitely yes,Definitely yes,Definitely yes,A great deal,Definitely yes,Not currently employed,-99,Executive,-99,45,1,1,1,1,2,1,2,46208
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Probably yes,Might or might not,A little,Might or might not,Not currently employed,-99,Not currently employed,-99,55,2,14,1,1,2,3,2,44484
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably yes,Probably not,A little,Definitely not,Health Care and Social Assistance,-99,Other,Nutrition assistant,46,1,6,1,1,6,7,1,03255
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Might or might not,Might or might not,A moderate amount,Might or might not,Retail Trade,-99,Executive,-99,20,1,2,14,2,2,3,1,11419
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Probably yes,Definitely yes,A little,Probably not,Other,Courier,Executive,-99,44,2,19,1,2,2,1,3,77546
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Might or might not,Probably yes,A moderate amount,Probably yes,Health Care and Social Assistance,-99,Specialist,-99,42,2,20,1,1,6,3,2,62536
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably not,Might or might not,A little,Probably yes,Not currently employed,-99,Not currently employed,-99,38,2,1,1,1,2,4,3,19956
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably not,Probably yes,Probably not,A little,Probably not,Retail Trade,-99,Other,Associate,33,1,8,1,1,2,3,3,21030
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably yes,Probably yes,Might or might not,A little,Probably not,"Agriculture, Forestry, Fishing and Hunting",-99,Prefer not to answer,-99,51,1,1,1,1,2,3,3,37849
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably not,Probably yes,Probably yes,A little,Definitely not,Manufacturing,-99,Not currently employed,-99,62,2,9,1,1,1,1,1,03451
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Definitely yes,Definitely not,A little,Definitely not,Not currently employed,-99,Not currently employed,-99,78,1,8,1,1,5,8,1,19090
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Definitely yes,Might or might not,None at all,Might or might not,Other,Military,Not currently employed,-99,46,1,12,1,1,5,2,3,21222
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably yes,Probably not,Definitely yes,A lot,Definitely yes,"Professional, Scientific, and Technical Services",-99,Specialist,-99,35,1,9,1,1,2,2,3,38361
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably not,Probably not,A moderate amount,Probably yes,Construction,-99,Manager,-99,23,1,2,1,1,2,4,3,32404
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Might or might not,Might or might not,A little,Might or might not,"Arts, Entertainment, and Recreation",-99,Manager,-99,32,1,1,13,2,2,1,3,77026
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Probably not,Probably not,A lot,Probably not,Other,Freelance contractor,Other,Freelance contractor,69,1,4,3,1,2,2,3,71112
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Definitely yes,Might or might not,A moderate amount,Probably not,Retail Trade,-99,Manager,-99,28,1,5,1,2,6,1,4,90017
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Probably yes,Probably yes,A lot,Probably yes,Retail Trade,-99,Manager,-99,47,1,14,1,1,2,3,3,32725
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably yes,Probably yes,A lot,Definitely yes,Construction,-99,Specialist,-99,27,1,8,1,2,4,4,4,85033
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably yes,Probably yes,A moderate amount,Definitely yes,Not currently employed,-99,Not currently employed,-99,56,1,3,1,1,2,1,3,22801
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Probably yes,Probably yes,A moderate amount,Definitely not,Transportation and Warehousing,-99,Manager,-99,34,1,3,1,1,6,2,1,07026
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely not,Definitely not,Definitely not,None at all,Probably yes,Not currently employed,-99,Not currently employed,-99,66,1,14,1,1,7,5,1,17872
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably not,Might or might not,A lot,Might or might not,Retail Trade,-99,Other,Stocking merchandise,61,1,5,1,1,2,2,3,70607
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Might or might not,Probably not,Probably yes,A little,Might or might not,Health Care and Social Assistance,-99,Specialist,-99,45,1,4,1,1,4,1,3,77550
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably not,Might or might not,A little,Probably not,Not currently employed,-99,Not currently employed,-99,62,1,1,1,1,5,4,3,20619
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably not,Probably yes,Might or might not,A lot,Definitely not,Other,Animal Care and Conservation,Other,Security,24,1,11,1,1,2,3,4,84107
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely not,Might or might not,Definitely not,A little,Definitely not,Retail Trade,-99,Manager,-99,62,1,8,1,1,5,2,4,85021
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Definitely not,Probably yes,A moderate amount,Probably yes,Finance and Insurance,-99,Other,Secretary,27,2,6,1,1,4,3,3,22572
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Might or might not,Might or might not,A little,Probably not,Not currently employed,-99,Not currently employed,-99,65,2,4,1,1,4,5,4,94102
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Might or might not,Might or might not,A moderate amount,Might or might not,"Arts, Entertainment, and Recreation",-99,Executive,-99,33,1,1,15,16,6,3,1,06118
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably not,Might or might not,A little,Might or might not,Finance and Insurance,-99,Manager,-99,24,1,14,1,1,2,1,3,35959
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably yes,Probably not,Probably yes,A moderate amount,Probably yes,Manufacturing,-99,Manager,-99,18,1,3,1,1,4,4,1,06106
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably yes,Might or might not,Might or might not,A great deal,Probably yes,Retail Trade,-99,Manager,-99,61,1,2,1,16,6,2,1,07310
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably not,Might or might not,Definitely not,A little,Definitely not,Not currently employed,-99,Not currently employed,-99,58,2,8,1,1,7,4,3,22903
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Probably yes,Probably yes,A great deal,Definitely yes,Health Care and Social Assistance,-99,Manager,-99,29,1,19,1,1,2,2,1,11230
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Definitely yes,Might or might not,Might or might not,A moderate amount,Probably yes,Not currently employed,-99,Not currently employed,-99,64,1,15,1,1,2,2,1,17834
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Definitely not,Probably yes,Definitely not,A moderate amount,Definitely not,Construction,-99,Specialist,-99,21,1,2,1,1,2,6,4,97838
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably yes,Definitely yes,Might or might not,A little,Probably yes,Information,-99,Manager,-99,32,1,9,1,1,6,1,1,07111
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely yes,Probably yes,Might or might not,A great deal,Definitely yes,Retail Trade,-99,Executive,-99,31,1,16,1,3,6,1,1,18015
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Definitely yes,Definitely yes,Probably yes,A moderate amount,Probably yes,Retail Trade,-99,Manager,-99,50,1,1,1,1,1,1,4,96080
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably yes,Probably yes,Probably yes,A moderate amount,Probably yes,Not currently employed,-99,Not currently employed,-99,76,2,2,1,1,7,3,1,06247
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably yes,Probably not,Might or might not,A moderate amount,Might or might not,Construction,-99,Executive,-99,42,1,1,1,1,2,2,4,98532
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Probably yes,Might or might not,Might or might not,A moderate amount,Might or might not,"Arts, Entertainment, and Recreation",-99,Executive,-99,41,1,24,1,1,7,3,4,92123
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably not,Definitely yes,Probably not,A moderate amount,Definitely not,Not currently employed,-99,Not currently employed,-99,76,2,8,1,1,6,1,3,77044
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably yes,Might or might not,None at all,Probably not,Health Care and Social Assistance,-99,Other,-99,66,2,3,1,1,3,1,1,15522
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely yes,Probably yes,Definitely yes,A great deal,Definitely yes,Retail Trade,-99,Specialist,-99,22,1,1,1,1,6,3,4,80246
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Definitely yes,Probably not,A moderate amount,Probably yes,Not currently employed,-99,Not currently employed,-99,72,1,14,1,1,5,2,1,06779
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably yes,Probably yes,Definitely yes,A lot,Probably not,Transportation and Warehousing,-99,Other,Worker’s,64,1,4,1,1,2,2,4,89108
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely not,Definitely yes,Definitely not,A moderate amount,Definitely not,Other,Logistics,Other,Mechanic,22,1,11,1,1,4,1,2,45373
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely not,Might or might not,Probably not,A moderate amount,Definitely yes,Utilities,-99,Manager,-99,22,1,3,2,1,4,2,2,48505
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Might or might not,Probably yes,Might or might not,None at all,Definitely not,Not currently employed,-99,Not currently employed,-99,66,1,19,1,1,4,2,4,80922
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Probably yes,Probably not,A little,Probably not,Accommodation and Food Services,-99,Not currently employed,-99,48,1,4,1,1,2,6,4,99207
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Definitely yes,Probably not,A lot,Definitely not,Health Care and Social Assistance,-99,Manager,-99,52,1,7,1,1,3,3,4,97478
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably yes,Probably not,A little,Probably not,Not currently employed,-99,Not currently employed,-99,62,1,15,1,1,4,2,3,27703
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Definitely not,Definitely yes,Definitely not,A great deal,Definitely not,Manufacturing,-99,Specialist,-99,35,1,7,1,1,2,4,4,85301
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Definitely yes,Definitely yes,Definitely yes,A great deal,Definitely yes,Not currently employed,-99,Not currently employed,-99,52,1,2,14,1,2,3,4,99205
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Might or might not,Probably not,A little,Probably not,Not currently employed,-99,Not currently employed,-99,54,1,2,1,1,2,5,4,85602
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably not,Probably yes,Probably not,A little,Probably not,Not currently employed,-99,Not currently employed,-99,56,1,4,1,1,1,7,2,47303
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely yes,Probably not,Definitely yes,A moderate amount,Probably yes,"Professional, Scientific, and Technical Services",-99,Manager,-99,71,1,9,1,1,4,3,2,68111
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Probably not,Might or might not,Probably not,A moderate amount,Probably not,Construction,-99,Manager,-99,50,1,19,1,1,5,2,4,92570
+g11q1|g11q2|g11q6|g11q7|g11q8,firstposter,Might or might not,Definitely yes,Might or might not,A moderate amount,Probably yes,Manufacturing,-99,Specialist,-99,67,1,19,1,1,4,5,2,47512
+g11q1|g11q5|g11q6|g11q7|g11q8,fourthposter,Definitely not,Definitely not,Definitely not,A little,Definitely not,Not currently employed,-99,Not currently employed,-99,67,1,2,1,1,8,8,4,85730
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Definitely yes,Definitely yes,A moderate amount,Definitely not,"Professional, Scientific, and Technical Services",-99,Specialist,-99,67,1,19,1,1,6,8,4,94560
+g11q1|g11q3|g11q6|g11q7|g11q8,secondposter,Probably not,Probably not,Probably not,A lot,Probably not,Construction,-99,Other,skilled worker,50,1,1,1,1,4,4,4,88028
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Probably yes,Probably not,Probably yes,A little,Probably not,Retail Trade,-99,Manager,-99,52,1,9,1,1,2,2,4,92399
+g11q1|g11q4|g11q6|g11q7|g11q8,thirdposter,Might or might not,Probably yes,Probably yes,A little,Probably yes,Utilities,-99,Not currently employed,-99,54,1,1,1,1,4,2,2,45420

@@ -1,0 +1,15 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+*.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+
+# Project  Render Files
+602_Group11ProjectReport.html
+602_Group11ProjectReport_files/*
