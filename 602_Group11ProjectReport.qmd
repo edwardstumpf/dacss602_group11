@@ -29,22 +29,21 @@ Replace the placeholders (title and author) in the yaml above with your own.
 
 
 # Introduction
-<!--
-What is your experiment about (4-5 sentences).
--->
-In the recent years, companies have heavily integrated AI into their employee management processes. For some companies, AI performance evaluations are now taken into consideration while handling appraisals and bonuses. While AI promises a sense of certainty and fairness of judgement algorithmically, does it put the workers under a certain amount of pressure to meet the AI standards? Does the employees outlook on their company change based on how AI judges their performance? Our research targets how AI based performance evaluations shape employees’ perceptions of their workplace, and their loyalty to their company. 
+
+In recent years, companies have heavily integrated AI into their employee management processes. For some companies, AI performance evaluations are now taken into consideration while handling appraisals and bonuses. While AI promises a sense of certainty and fairness of judgement algorithmically, does it put the workers under a certain amount of pressure to meet the AI standards? Does the employee's outlook on their company change based on how AI judges their performance? Our research targets how AI based performance evaluations shape employees’ perceptions of their workplace, and their loyalty to their company. 
 
 # Methodology
 <!--
 Describe your experiment design, including: (1) experiment design, (2) treatments, (3) outcome variable(s), (4) sample size, and (5) data cleaning procedures (if applicable) [8-10 sentences]
 -->
 ## Research Question 
-Does the use of AI in employee performance reviews affect an individual's’ perception of the quality of their work, their work environment, and personal allegiance / loyalty to their company?
+
+* Does the use of AI in employee performance reviews affect an individual's’ perception of the quality of their work, their work environment, and personal allegiance / loyalty to their company?
 
 ## Hypothesis
-The use of AI in employee performance reviews plays a big role in employees’ perceptions of the quality of their work, their work environment, and personal allegiance / loyalty to their company.
 
-Employees evaluated by AI view their work through a more critical lens as compared to employees evaluated by their human supervisors.
+* The use of AI in employee performance reviews plays a big role in employees’ perceptions of the quality of their work, their work environment, and personal allegiance / loyalty to their company.
+* Employees evaluated by AI view their work through a more critical lens as compared to employees evaluated by their human supervisors.
 
 ## Treatments
 |                             | Control | Treatment 1 | Treatment 2 | Treatment 3 |
@@ -71,9 +70,8 @@ Run the chosen test! To do so: (1) import the libraries you need, (2) import you
 -->
 
 ```{r}
-# import libraries
-# import data
-# test!
+#| warning: false
+#| messages: false
 
 library(readr)
 library(dplyr)
@@ -99,6 +97,28 @@ recodeTreatments <- function (column) {
     column == "secondposter" ~ 2,
     column == "thirdposter" ~ 3,
     column == "fourthposter" ~ 4,
+    TRUE ~ NA
+  )
+}
+
+recodeYesNo <- function (column) {
+  case_when(
+    column == "Definitely not" ~ 0,
+    column == "Probably not" ~ 1,
+    column == "Might or might not" ~ 2,
+    column == "Probably yes" ~ 3,
+    column == "Definitely yes" ~ 4,
+    TRUE ~ NA
+  )
+}
+
+recodeAllNone <- function (column) {
+  case_when(
+    column == "None at all" ~ 0,
+    column == "A little" ~ 1,
+    column == "A moderate amount" ~ 2,
+    column == "A lot" ~ 3,
+    column == "A great deal" ~ 4,
     TRUE ~ NA
   )
 }
@@ -134,10 +154,141 @@ treatmentColors = c(
   "darkorchid1"
 )
 
+# Recode treatments to make ordering in legend easier
 experimentData <- experimentData |>
   mutate(
     treatments_recode = recodeTreatments(treatments),
   )
+
+numericLikertData <- experimentData |>
+  mutate(
+    g11q6_1 = recodeYesNo(g11q6_1),
+    g11q6_2 = recodeYesNo(g11q6_2),
+    g11q6_3 = recodeYesNo(g11q6_3),
+    g11q7 = recodeAllNone(g11q7),
+    g11q8 = recodeYesNo(g11q8),
+  )
+#############################################
+# Begin Questions, Treatments, and Industry #
+#############################################
+
+# Control Group: Questions by Industry
+numericLikertData |>
+  filter(treatments_recode == 1) |>
+  rename(Industry_Control = g11industry) |>
+  group_by(Industry_Control) |>
+  summarise(
+    g11q6_1_avg = mean(g11q6_1),
+    g11q6_2_avg = mean(g11q6_2),
+    g11q6_3_avg = mean(g11q6_3),
+    g11q7_avg = mean(g11q7),
+    g11q8_avg = mean(g11q8)
+  )
+
+# Treatment 1 Group: Questions by Industry
+numericLikertData |>
+  filter(treatments_recode == 2) |>
+  rename(Industry_Treatment1 = g11industry) |>
+  group_by(Industry_Treatment1) |>
+  summarise(
+    g11q6_1_avg = mean(g11q6_1),
+    g11q6_2_avg = mean(g11q6_2),
+    g11q6_3_avg = mean(g11q6_3),
+    g11q7_avg = mean(g11q7),
+    g11q8_avg = mean(g11q8)
+  )
+
+# Treatment 2 Group: Questions by Industry
+numericLikertData |>
+  filter(treatments_recode == 3) |>
+  rename(Industry_Treatment2 = g11industry) |>
+  group_by(Industry_Treatment2) |>
+  summarise(
+    g11q6_1_avg = mean(g11q6_1),
+    g11q6_2_avg = mean(g11q6_2),
+    g11q6_3_avg = mean(g11q6_3),
+    g11q7_avg = mean(g11q7),
+    g11q8_avg = mean(g11q8)
+  )
+
+# Treatment 3 Group: Questions by Industry
+numericLikertData |>
+  filter(treatments_recode == 4) |>
+  rename(Industry_Treatment3 = g11industry) |>
+  group_by(Industry_Treatment3) |>
+  summarise(
+    g11q6_1_avg = mean(g11q6_1),
+    g11q6_2_avg = mean(g11q6_2),
+    g11q6_3_avg = mean(g11q6_3),
+    g11q7_avg = mean(g11q7),
+    g11q8_avg = mean(g11q8)
+  )
+
+#########################################
+# Begin Questions, Treatments, and Role #
+#########################################
+
+# Control Group: Questions by Industry
+numericLikertData |>
+  filter(treatments_recode == 1) |>
+  rename(Role_Control = g11role) |>
+  group_by(Role_Control) |>
+  summarise(
+    g11q6_1_avg = mean(g11q6_1),
+    g11q6_2_avg = mean(g11q6_2),
+    g11q6_3_avg = mean(g11q6_3),
+    g11q7_avg = mean(g11q7),
+    g11q8_avg = mean(g11q8)
+  )
+
+# Treatment 1 Group: Questions by Industry
+numericLikertData |>
+  filter(treatments_recode == 2) |>
+  rename(Role_Treatment1 = g11role) |>
+  group_by(Role_Treatment1) |>
+  summarise(
+    g11q6_1_avg = mean(g11q6_1),
+    g11q6_2_avg = mean(g11q6_2),
+    g11q6_3_avg = mean(g11q6_3),
+    g11q7_avg = mean(g11q7),
+    g11q8_avg = mean(g11q8)
+  )
+
+# Treatment 2 Group: Questions by Industry
+numericLikertData |>
+  filter(treatments_recode == 3) |>
+  rename(Role_Treatment2 = g11role) |>
+  group_by(Role_Treatment2) |>
+  summarise(
+    g11q6_1_avg = mean(g11q6_1),
+    g11q6_2_avg = mean(g11q6_2),
+    g11q6_3_avg = mean(g11q6_3),
+    g11q7_avg = mean(g11q7),
+    g11q8_avg = mean(g11q8)
+  )
+
+# Treatment 3 Group: Questions by Industry
+numericLikertData |>
+  filter(treatments_recode == 4) |>
+  rename(Role_Treatment3 = g11role) |>
+  group_by(Role_Treatment3) |>
+  summarise(
+    g11q6_1_avg = mean(g11q6_1),
+    g11q6_2_avg = mean(g11q6_2),
+    g11q6_3_avg = mean(g11q6_3),
+    g11q7_avg = mean(g11q7),
+    g11q8_avg = mean(g11q8)
+  )
+
+# First 3 Questions and Trust
+
+# First 3 Questions and Knowledge
+
+# Question: trust compared to knowledge about AI
+
+######################################
+# Begin All Questions and Treatments #
+######################################
 
 # Question 1
 experimentData |>
@@ -206,8 +357,6 @@ experimentData |>
     y = "Count",
     fill = "Experimental Treatment"
   ) 
-
-
 
 # Question 5
 experimentData |>
