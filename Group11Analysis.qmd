@@ -3,7 +3,7 @@ title: "Employee Perspective on AI Usage"
 subtitle: "DACSS 602 (Fall 2025)"
 author: "Shruti Oak, Edward Stumpf, Nurah Jaradat"
 format: 
-  pdf:
+  html:
     toc: true
     toc-depth: 2
     toc-title: Contents
@@ -67,7 +67,7 @@ library(tidyverse)
 library(broom)
 library(purrr)
 
-experimentData <- read_csv("rd_602_fall25_group11.csv", show_col_types = FALSE)
+experimentData <- read_csv("data/rd_602_fall25_group11.csv", show_col_types = FALSE)
 
 recodeTreatments <- function(x) {
   case_when(
